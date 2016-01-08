@@ -1,0 +1,1 @@
+This program multiplies a sequence of numbers by a fixed input.

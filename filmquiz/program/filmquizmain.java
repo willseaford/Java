@@ -3,8 +3,8 @@ import java.util.*;
 import java.io.*;
 
 //Author: Will Seaford
-//Purpose: A film quiz which three players can play and select question difficulty, ultimately putting the results in a table 
-//which is wrote to an external file that can be view later at any point until the next game overwrites it
+/*Purpose: A film quiz which three players can play and select question difficulty, ultimately putting the results in a table 
+which is wrote to an external file that can be view later at any point until the next game overwrites it*/
 
 class filmquizmain
 {

@@ -1,0 +1,3 @@
+I have a particular interest in the MVC design pattern in software design for its perceived cleanliness on pulling apart the seperate components which makes up a program and abstracting them to become their own subroutines. 
+
+Apart from sometimes making it difficult towards human intuition and relatively easy to get confused with, The benefits of software design such as this outweighs the negative consequences. 

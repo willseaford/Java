@@ -1,3 +1,6 @@
+/*This class will represent the model part of the MVC design pattern, so the object and its states and attributes are defined here. */
+
+
 class Will {
 	private int age;
 	private boolean awake;

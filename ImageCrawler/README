@@ -1,0 +1,2 @@
+This is a simple image crawler built using jsoup's jsoup-1.8.3.jar. The aim of this program is when given a weblink, will collect and download all images, where available, to a specified folder.
+This follows on from earlier work practising the model-view-controller design pattern. 

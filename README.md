@@ -1,4 +1,2 @@
 # Java
-Repository containing programs written in Java
-
-This repository contains small and medium sized project programs which are a combination of previous university courseworks and personal interests. 
+Repository containing small to medium sized programs written in Java which are a combination of previous university courseworks and personal interests. 
